@@ -1,0 +1,22 @@
+body {
+    background-color: #f0f0f8;
+}
+
+h1 {
+    color: blue;
+    text-align: right;
+    background-color: lightblue;
+    padding: 5px;
+}
+
+ul {
+    background-color: purple;
+    list-style-type: none;
+    padding: 10px;
+}
+
+ul li a {
+    color: white;
+    text-decoration: underline;
+}
+
