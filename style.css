@@ -6,6 +6,7 @@ h1 {
     color: blue;
     text-align: right;
     background-color: lightblue;
+    font-family: "Comic Sans MS", cursive, sans-serif;
     padding: 5px;
 }
 
@@ -18,5 +19,6 @@ ul {
 ul li a {
     color: rgba(255, 255, 255, 0.986);
     text-decoration: underline;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
